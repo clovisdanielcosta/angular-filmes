@@ -1,5 +1,9 @@
+<p align="center">
+  <img alt="Ainda em desenvolvimento" src="././src/assets/images/under-development.png" width="70%">
+</p>
+
 <h1 align="center">
-:small_red_triangle_down: Introduction to Angular 8 
+:small_red_triangle_down: Course:  Angular 8 Advanced 
 </h1>
 
 <p align="center">
@@ -17,7 +21,7 @@ Bootcamp everis Fullstack Developer by Digital Innovation One
 </p>
 
 <p>
-This repository was created as part of bootcamp "everis FullStack Developer" by Digital Innovation One  to building a course manager project with purpose to introduce the Angular 8 basics concepts.
+This repository was created as part of bootcamp "everis FullStack Developer" by Digital Innovation One  to building a movies manager with a complete CRUD to training concepts more advanced in Angular 8.
 </p>
 
 <p align="center">
@@ -31,7 +35,7 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
 </p>
 
 <p align="center">
-  <img alt="Gif animado do projeto" src="./src/assets/images/course-manager.gif" width="100%">
+  <img alt="Gif animado do projeto" src="./src/assets/images/movies-manager.gif" width="100%">
 </p>
 
 ## :cloud: Deploy
@@ -45,53 +49,41 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
   - [TypeScript](https://www.typescriptlang.org/)
   - [Angular 8](https://angular.io/)
   - [Bootstrap](https://getbootstrap.com/)
-  - [Font Awesome](https://fontawesome.com/) 
 
 ## :computer: Installation
 
-1. Clone the server repository on your computer:
+3. Clone this repository on your computer:
 
-    `$ git clone https://github.com/clovisdanielcosta/course-manager-server.git`
+    `$ git clone https://github.com/clovisdanielcosta/angular-filmes.git`
 
-2. Type in a terminal:
 
-    `$ cd course-manager-server`
-
-    `$ npm install`
-
-    `$ node serve.js`
-
-3. Clone this repository on your computer (OUTSIDE the folder above):
-
-    `$ git clone https://github.com/clovisdanielcosta/course-manager.git`
-
-4. Type in a terminal:
+1. Enter in the project folder:
 
     `$ cd course-manager`
 
+1. To install dependencies needed run:
+
     `$ npm install`
     
-    `$ ng serve`
+2. To simulate a REST API Server run:
+
+    `$ npm install -g json-server`
+
+3. To up the server run (you could see it in `http://localhost:3000/`):
+
+    `$ json-server --watch db.json`
+
+2. To start application run:
+
+    `$ ng start`
 
 5. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## :books: Learning
 
-  - Better understanding about typescript.
-  - Segregate in module.
-  - Bootstrap make very easy page styles.
-
 ## :small_orange_diamond: Sharing
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
 ## :small_orange_diamond: Customizing
-
-  - Create new route and home page.
-  - Image of Error 404 page more user friendly.
-  - Logo and new link on nav bar.
 
 ## :small_orange_diamond: License
 
@@ -100,7 +92,6 @@ The images in this project were made by repo's owner or taken from another repo 
 
 ## :small_orange_diamond: Thanks
 
-I wanna to say thank you to <b>Digital Innovation One</b> and <b>everis</b> for make this bootcamp possible. Special thanks to Wesllhey Holanda for skillfully teaching in this course. You all are doing a great job. 
+I wanna to say thank you to <b>Digital Innovation One</b> and <b>everis</b> for make this bootcamp possible. Special thanks to Rena Rafael Bertoldo for skillfully teaching in this course. You all are doing a great job. 
 
 Well done! :clap: :clap:
-
