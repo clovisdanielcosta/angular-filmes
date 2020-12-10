@@ -15,7 +15,7 @@ Bootcamp everis Fullstack Developer by Digital Innovation One
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!"/>
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
 </p>
@@ -80,6 +80,17 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
 5. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## :books: Learning
+
+  - Aplicação de Material Design no projeto.
+  - Json Server para simular uma API REST.
+  - Uso do provider MAT_DATE_LOCALE dentro app.module para indicar que o uso de datas é no padrão desejado., neste caso 'pt'.
+  - Padronização dos componentes através caso arquivo "tslint json' para facilitar a distinção visual entre componentes próprios e de terceiros.
+  - Novamente ficou claro a praticidade do uso da segregação e herança em módulos para evitar redundância de códigos e tornar mais claro o projeto para futuras manutenções. 
+  - Uso de formGroup nos formulários html e validação em seu respectivo arquivo typescript.
+  - Navegação segura(Elvis Operator).
+  - Uso de componentes também no Html para diminuir o tamanho do código html e permitindo o reaproveitamento do mesmo código em componentes semelhantes.
+  - Amplo uso Angular CLI para criar módulos, componentes e serviços. 
+  - Uso de interface para garantir entrega do frontend exatamente como o backend está vc esperando.
 
 ## :small_orange_diamond: Sharing
 
