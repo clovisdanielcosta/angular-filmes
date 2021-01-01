@@ -29,8 +29,6 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-learning">Learning</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#small_orange_diamond-sharing">Sharing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#small_orange_diamond-customizing">Customizing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#small_orange_diamond-license">License</a>
 </p>
 
@@ -91,10 +89,6 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
   - Uso de componentes também no Html para diminuir o tamanho do código html e permitindo o reaproveitamento do mesmo código em componentes semelhantes.
   - Amplo uso Angular CLI para criar módulos, componentes e serviços. 
   - Uso de interface para garantir entrega do frontend exatamente como o backend está vc esperando.
-
-## :small_orange_diamond: Sharing
-
-## :small_orange_diamond: Customizing
 
 ## :small_orange_diamond: License
 
