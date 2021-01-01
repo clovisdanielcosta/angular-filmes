@@ -52,32 +52,32 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
 
 ## :computer: Installation
 
-3. Clone this repository on your computer:
+1. Clone this repository on your computer:
 
     `$ git clone https://github.com/clovisdanielcosta/angular-filmes.git`
 
 
-1. Enter in the project folder:
+2. Enter in the project folder:
 
     `$ cd course-manager`
 
-1. To install dependencies needed run:
+3. To install dependencies needed run:
 
     `$ npm install`
     
-2. To simulate a REST API Server run:
+4. To simulate a REST API Server run:
 
     `$ npm install -g json-server`
 
-3. To up the server run (you could see it in `http://localhost:3000/`):
+5. To up the server run (you could see it in `http://localhost:3000/`):
 
     `$ json-server --watch db.json`
 
-2. To start application run:
+6. To start application run:
 
     `$ ng start`
 
-5. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+7. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## :books: Learning
 
