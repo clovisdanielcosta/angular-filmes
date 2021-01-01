@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="Ainda em desenvolvimento" src="././src/assets/images/under-development.png" width="70%">
-</p>
-
 <h1 align="center">
 :small_red_triangle_down: Course:  Angular 8 Advanced 
 </h1>
